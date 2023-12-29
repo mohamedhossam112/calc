@@ -1,6 +1,10 @@
- CALCULATOR in Assembly Language
+EMU 8086
  ----------------------------------
- EMU 8086
+ CALCULATOR in Assembly Language
+ --------------------------------
+ Calculator Video 
+ ------------------
+ https://clipchamp.com/watch/OVjuFxVB3NU
  --------------------------------
 Sample Run
 ----------------------
